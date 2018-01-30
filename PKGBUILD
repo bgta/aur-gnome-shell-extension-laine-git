@@ -1,6 +1,6 @@
 pkgname="gnome-shell-extension-laine-git"
 pkgdesc="Gnome extension which allows the control of the volume of individual applications as well as a more in depth control of mpris aware applications from a single applet"
-pkgver=r107.ac53355
+pkgver=3.24.r2.g838d89e
 pkgrel=1
 arch=(any)
 url="https://github.com/johnhoran/Laine"
